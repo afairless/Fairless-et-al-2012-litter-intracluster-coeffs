@@ -1,0 +1,2 @@
+[1] "These results are for the Balb/cJ mice"
+[1] "The intracluster correlation coefficient is 0.196833994730956"
